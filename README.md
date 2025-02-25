@@ -1,7 +1,7 @@
 <h1 align="center"> Exercício de aula </h1>
 
 # Orgs
-Página exemplo usando HTML e CSS.
+Página exemplo usando HTML e CSS com implementação de aplicativo em JavaScript.
 
 # Autores
 
